@@ -1,14 +1,14 @@
-# Chasing the Trade-Off: A Pareto-based Multi-Objective Deep Reinforcement Learning Approach for Portfolio Optimization
+# Chasing the Trade-Off: A Pareto-based Multi-Objective Deep Reinforcement Learning Approach for Portfolio Management
 
 This repository contains the official code, data (partial), and evaluation scripts for the AAAI submission:
 
-**Chasing the Trade-Off: A Pareto-based Multi-Objective Deep Reinforcement Learning Approach for Portfolio Optimization**
+**Chasing the Trade-Off: A Pareto-based Multi-Objective Deep Reinforcement Learning Approach for Portfolio Management**
 
 ---
 
 ## Overview
 
-We propose a Pareto-based Multi-Objective Deep Reinforcement Learning (PMODRL) framework for portfolio optimization, balancing return and risk. The method is validated on real-world financial datasets (S&P 500 and SSE 50), demonstrating strong performance against state-of-the-art baselines under multiple evaluation metrics.
+We propose a Pareto-based Multi-Objective Deep Reinforcement Learning (PMODRL) framework for portfolio Management, balancing return and risk. The method is validated on real-world financial datasets (S&P 500 and SSE 50), demonstrating strong performance against state-of-the-art baselines under multiple evaluation metrics.
 
 ---
 
